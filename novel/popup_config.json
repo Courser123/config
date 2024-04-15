@@ -1,0 +1,12 @@
+{
+   "data": {
+      "ios-version": "2.0.11",
+      "ios-linkUrl": "https://download.comic.ios.langyage.net",
+      "android-version": "2.0.11",
+      "android-linkUrl": "http://download.resources.langyage.net/琅琊小说.apk",
+      "title": "发现新版本请及时更新!",
+      "confirmText": "更新",
+      "cancelText": "",
+      "forced-upgrade": false
+   }
+}
