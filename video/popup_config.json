@@ -1,0 +1,12 @@
+{
+   "data": {
+      "iosVersion": "1.0.0",
+      "iosLinkUrl": "https://download.video.ios.langyage.net",
+      "androidVersion": "1.0.0",
+      "androidLinkUrl": "http://download.resources.langyage.net/琅琊视频.apk",
+      "title": "发现新版本请及时更新!",
+      "confirmText": "更新",
+      "cancelText": "",
+      "forcedUpgrade": false
+   }
+}
