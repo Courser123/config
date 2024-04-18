@@ -1,6 +1,6 @@
 {
    "data": {
-      "advertising" : true,
+      "advertising" : false,
       "iosAdType" : 0,
       "nativeAdPageIndexs" : [5]
    }
