@@ -6,7 +6,7 @@
       "androidLinkUrl": "https://resources.langyage.net/琅琊漫画.apk",
       "title": "发现新版本请及时更新!",
       "confirmText": "更新",
-      "cancelText": "",
+      "cancelText": "取消",
       "forcedUpgrade": false
    }
 }
