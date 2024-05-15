@@ -3,6 +3,6 @@
       "advertising" : true,
       "iosAdType" : 0,
       "nativeAdPageIndexs" : [5],
-      "adFreeTime" : 60
+      "adFreeTime" : 3600
    }
 }
