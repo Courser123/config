@@ -2,6 +2,7 @@
    "data": {
       "advertising" : true,
       "iosAdType" : 0,
-      "nativeAdPageIndexs" : [9]
+      "nativeAdPageIndexs" : [9],
+      "adFreeTime" : 60
    }
 }
